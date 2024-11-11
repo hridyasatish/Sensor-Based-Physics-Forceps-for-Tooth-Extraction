@@ -45,6 +45,6 @@ Published on October 28, 2022.
 ![Patent Publication](https://github.com/hridyasatish/Sensor-Based-Physics-Forceps-for-Tooth-Extraction/blob/main/Patent%20Publication.png)
 
 ### Patent Granted
-Granted on July 26, 2024.  
+Granted on June 25, 2024.  
 ![Patent Granted](https://github.com/hridyasatish/Sensor-Based-Physics-Forceps-for-Tooth-Extraction/blob/main/Patent%20Granted.png)
 
