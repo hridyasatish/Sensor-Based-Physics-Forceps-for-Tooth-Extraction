@@ -24,7 +24,11 @@ The system tracks and displays the **rocking** and **twisting movements** during
 
 ### 3. **Wearable Wristband for Angle Detection**
 A prototype **wearable wristband** was developed to monitor the angle of the extraction forceps. This device, worn by the dentist, communicates wirelessly with the **ESP32 microcontroller** to continuously monitor the angle in real-time. The wristband provides an additional layer of feedback to the dentist, ensuring that the forceps are used within the recommended angular range during the extraction. This wearable system ensures that the dentist can work with minimal distractions, while still receiving accurate real-time data on the extraction process.
+### Hardware Setup
 
+Here is an image of the hardware setup used for the force sensing device and the wearable device:
+
+![Hardware Setup](https://github.com/hridyasatish/Sensor-Based-Physics-Forceps-for-Tooth-Extraction/blob/main/Hardware%20Setup.jpg)
 ## Conclusion
 The **sensor-based physics forceps** system significantly improves the precision and safety of tooth extractions. By integrating **Force Sensing Resistors** (FSRs) for pressure detection and the **MPU6050** sensor for motion detection, the system ensures accurate and controlled force application. The use of a **wearable wristband** and real-time feedback through the **Blynk mobile app** empowers the dentist to perform extractions with greater confidence and precision, minimizing the risk of tissue damage and improving patient outcomes.
 
