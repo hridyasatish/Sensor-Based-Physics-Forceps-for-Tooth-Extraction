@@ -34,3 +34,13 @@ Compared to traditional forceps, the sensor-based forceps provide **more predict
 One promising area for enhancement involves the integration of a **dynamic pressure calculation system** that accounts for the **specific tooth type** being extracted. Since the force required for tooth extraction varies depending on the type of tooth—molars, incisors, or premolars—this dynamic system could adjust the **pressure limits** based on the **tooth type** and **age** of the patient. Age-related factors such as bone density could also influence the force needed, and these variations would be incorporated into the system to ensure a safer, more efficient extraction process. 
 
 By developing an **algorithm** to adjust the applied force dynamically, this system would offer an even more personalized approach to tooth extraction. Such improvements would further **reduce the risk of injury**, increase **precision**, and enhance the overall success rate of extractions, particularly for older patients with more fragile bone structures. In the future, the use of this intelligent, adaptive system could become a standard in dental practices, offering a safer, more effective way to perform extractions.
+## Patent Documentation
+
+### Patent Publication
+Published on October 28, 2022.  
+![Patent Publication](https://github.com/hridyasatish/Sensor-Based-Physics-Forceps-for-Tooth-Extraction/blob/main/Patent%20Publication.png)
+
+### Patent Granted
+Granted on July 26, 2024.  
+![Patent Granted](https://github.com/hridyasatish/Sensor-Based-Physics-Forceps-for-Tooth-Extraction/blob/main/Patent%20Granted.png)
+
